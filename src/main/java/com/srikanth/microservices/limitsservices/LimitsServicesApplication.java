@@ -8,6 +8,7 @@ public class LimitsServicesApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LimitsServicesApplication.class, args);
+		
 		System.out.println("Dummy");
 	}
 
